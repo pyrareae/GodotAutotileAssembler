@@ -1,4 +1,4 @@
-### Minitiles: auto-autotiling for Godot!
+# Minitiles: auto-autotiling for Godot!
 
 The autotiling in Godot is great, but it requires a *lot* of copy and pasting in your sprite sheet to create a full tileset, as you need 47 tiles to make a fully functional set. Now you can make Gimp do all the hard work for you, using only 5 tiles!
 
@@ -13,5 +13,5 @@ Before you do anything you need to setup your art, the minitiles template is act
 
 In Gimp load the finished minitile set and run the assembler script `Filters/Tileset/AutotileAssembler` and save the result. Next add the new sprite to your tileset scene, export it, and enable autotiling in the resource. Now open the template tileset in the inspector and in the autotile tab and copy the bitmask, then paste it into your own tileset resource. Also you need to set the tile size in the autotile panel, the spacing to 0, and the bitmask mode to 3x3.
 
-# licence
+### licence
 CC-0
