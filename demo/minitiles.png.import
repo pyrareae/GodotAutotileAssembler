@@ -2,14 +2,14 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/autotiles-source.png-506c9e88c06416369a75ebb569f0e70f.stex"
+path="res://.import/minitiles.png-3242b04a92fe3cba0de9fe886f94f0db.stex"
 
 [deps]
 
-source_file="res://demo/autotiles-source.png"
+source_file="res://demo/minitiles.png"
 source_md5="244e24c3c6101a043d584b122afcf9f0"
 
-dest_files=[ "res://.import/autotiles-source.png-506c9e88c06416369a75ebb569f0e70f.stex" ]
+dest_files=[ "res://.import/minitiles.png-3242b04a92fe3cba0de9fe886f94f0db.stex" ]
 dest_md5="dfbad063532e75fe09522aedb6f14609"
 
 [params]
