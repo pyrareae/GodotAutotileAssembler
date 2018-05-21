@@ -2,6 +2,11 @@
 
 The autotiling in Godot is great, but it requires a *lot* of copy and pasting in your sprite sheet to create a full tileset, as you need 47 tiles to make a fully functional set. Now you can make Gimp do all the hard work for you, using only 5 tiles!
 
+From this:  
+![minitiles](https://github.com/lunarfyre7/GodotAutotileAssembler/raw/master/demo/minitiles.png)  
+To this:  
+![autotile](https://github.com/lunarfyre7/GodotAutotileAssembler/raw/master/demo/autotiles.png)
+
 ## Installation
 
 * Copy `autotileassembler.py` to your gimp plug-ins directory.
