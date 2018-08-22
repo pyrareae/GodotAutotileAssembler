@@ -23,5 +23,8 @@ In Gimp load the finished minitile set and run the assembler script `Filters/Til
 
 You can also just use the Gimp script to create tilesets for other engines as well, just follow the above steps for processing the sprite in Gimp and ignore the godot steps.
 
+#### Other Implementations and Alternatives
+[autotile generator (cli version)](https://github.com/HeartoLazor/autotile_generator)
+
 ### license
 CC-0
